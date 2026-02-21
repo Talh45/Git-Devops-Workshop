@@ -1,1 +1,5 @@
-print("Assalam Alaikum dosto")
+print("hello dosto, kaise ho")
+
+
+
+
